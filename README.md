@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=MelodicSam&fontSize=58&fontAlignY=38&desc=Cybersecurity%20%7C%20Networking%20%7C%20Music%20Producer&descAlignY=62&animation=fadeIn&color=0:020617,25:0f172a,55:0ea5e9,100:22d3ee"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=MelodicSam&fontSize=65&fontAlignY=38&desc=Cybersecurity%20%7C%20Networking%20%7C%20Music%20Producer&descAlignY=62&animation=fadeIn&color=0:020617,25:0f172a,55:0ea5e9,100:22d3ee"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Swayam+Patel;Cybersecurity+Student+%7C+Networking+Enthusiast;Building+Real+Projects+with+Python%2C+Flask+and+Docker;Learning+by+Building%2C+Testing%2C+and+Shipping" alt="Typing SVG" />
 
